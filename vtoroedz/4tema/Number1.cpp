@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-#include <stdlib.h>
+//#include <stdlib.h>
 using namespace std;
 /*int comp1 (const void * a, const void * b)
 {
